@@ -4,3 +4,4 @@ This project demonstrates a basic Hardhat use case. It contains a contracts file
 # LW3-NFTWHITELIST
 # nftLW3
 # nftLW3
+# nftLW3
